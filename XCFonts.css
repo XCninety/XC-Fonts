@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'JeomKKol';
+    src:
+        url(../master/나눔손글씨-점꼴체.woff) format('woff'),
+        url(../master/나눔손글씨-점꼴체.ttf)  format('truetype');
+}
