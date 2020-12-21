@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'JeomKKol';
+    src:
+        url(../master/IBMPlexSansKR-Regular.woff2) format('woff2'),
+        url(../master/IBMPlexSansKR-Regular.woff) format('woff'),
+}
